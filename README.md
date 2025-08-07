@@ -1,2 +1,2 @@
 # CPrimerPlus6E
-C Primer Plus 6E原书代码
+一些学习资料
